@@ -1,6 +1,6 @@
 # Belajar Bahasa Jepang
 
-Aplikasi web belajar bahasa Jepang dari 0 sampai N4/N3 (dibuka dari aplikasi Muse, bukan APK Android).
+Aplikasi web belajar bahasa Jepang dari 0 sampai N4/N3 (aplikasi web).
 
 ## Isi
 - 22 tahap: 4 kana + 18 pelajaran
@@ -12,7 +12,7 @@ Aplikasi web belajar bahasa Jepang dari 0 sampai N4/N3 (dibuka dari aplikasi Mus
 Menggunakan rekaman audio di dalam aplikasi untuk kana, kosakata, contoh kanji, dan contoh tata bahasa N5–N3.
 
 ## Catatan
-Repo ini berisi deskripsi proyek. Kode sumber aplikasi web lengkap berjalan di platform Muse dan tidak diekspor sebagai kode sumber dari repo ini.
+Repo ini berisi deskripsi proyek. Kode sumber aplikasi web lengkap versi web lengkapnya tidak diekspor sebagai kode sumber dari repo ini.
 
 ## Versi terminal (bisa dijalankan sendiri)
 ```bash
