@@ -13,3 +13,9 @@ Menggunakan rekaman audio di dalam aplikasi untuk kana, kosakata, contoh kanji, 
 
 ## Catatan
 Repo ini berisi deskripsi proyek. Kode sumber aplikasi web lengkap berjalan di platform Muse dan tidak diekspor sebagai kode sumber dari repo ini.
+
+## Versi terminal (bisa dijalankan sendiri)
+```bash
+python3 belajar_jepang.py
+```
+Versi terminal ini ringkas: tabel kana, kuis kana, kosakata N5, dan tata bahasa dasar N5.
